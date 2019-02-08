@@ -52,6 +52,12 @@ Fraudulant use of credit cards or bank account.
 
 11) Describe cyberbullying in your own words.
 
+Bullying using the Internet or similar communication technologies. (Public forums, chat rooms, text messaging, etc.)
+
 12) What physiological reason has been given for the difficulty some people experience detaching themselves from their digital devices?
 
+The digital world brings an endless stream of 'new' things that stimulate the parts of the brain that release dopamine, and causes a real chemical addiction.
+
 13) What is the Enlightenment view regarding responsibility for addiction?
+
+Ultimately the responsibility lies with the individual.
